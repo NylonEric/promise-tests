@@ -1,0 +1,23 @@
+{
+  "name": "promise-catch-then",
+  "version": "1.0.0",
+  "description": "",
+  "main": "promise_chain.test.js",
+  "scripts": {
+    "test": "jest",
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NylonEric/promise-tests.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NylonEric/promise-tests/issues"
+  },
+  "homepage": "https://github.com/NylonEric/promise-tests#readme",
+  "devDependencies": {
+    "jest": "^28.1.1"
+  }
+}
