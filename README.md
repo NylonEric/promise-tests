@@ -4,7 +4,7 @@
 
 ### I wasn't satisfied with the explanations and examples of the more complex promise chain behavior in the various documentation I was finding so I made this project to test my intuitions on behaviors like:
 * .then() blocks after .catch() blocks
-* .final() blocks
+* .finally() blocks
 * throw() behavior
 
 #### Information on promises:
